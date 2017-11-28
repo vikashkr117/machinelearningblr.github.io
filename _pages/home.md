@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-meetup'></i> Join Us"
   cta_url: "https://www.meetup.com/Machine-Learning-India-Bangalore/"
   caption:
-excerpt: 'We are a group of Machine Learning and Data Science enthusiasts. We meet to discuss research papers and have featured talks by experts in industry and academia. The purpose is to build a community around students, researchers, corporations in Machine Learning and Data Science.<br /> <small><a href="https://www.meetup.com/Machine-Learning-India-Bangalore/">Machine Learning Bangalore MeetUp</a></small><br /><br />'
+excerpt: 'We are a group of Machine Learning and Data Science enthusiasts. We meet to discuss research papers and have featured talks by experts in industry and academia. The purpose is to build a community around students, researchers, corporations in Machine Learning and Data Science.<br /> <small><a href="https://www.meetup.com/Machine-Learning-India-Bangalore/">Meet us at next meetup!</a></small><br /><br />'
 feature_row:
   - image_path: assets/images/projects.jpg
     alt: "projects"
