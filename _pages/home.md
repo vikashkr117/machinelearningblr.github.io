@@ -7,33 +7,33 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.7.1">Latest release v4.7.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'We are a group of Machine Learning and Data Science enthusiasts. We meet to discuss research papers and have featured talks by experts in industry and academia. The purpose is to build a community around students, researchers, corporations in Machine Learning and Data Science..<br /> <small><a href="https://www.meetup.com/Machine-Learning-India-Bangalore/">Machine Learning Bangalore MeetUp</a></small><br /><br />'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "projects"
+    title: "Projects"
+    excerpt: "Open Source projects developed and maintained by Machine Learning Bangalore Chapter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "tutorials"
+    title: "Tutorials"
+    excerpt: "From Ground Zero to Alpha Centauri!"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    alt: "Blog"
+    title: "Blog: Latest in ML & more"
+    excerpt: "Latest!"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fa fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
+  - excerpt: 'Join us to learn and contribute! &nbsp;'
 ---
 
 {% include feature_row id="intro" type="center" %}
