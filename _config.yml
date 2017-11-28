@@ -7,17 +7,17 @@
 
 remote_theme             : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Machine Learning BLR"
 title_separator          : "-"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+name                     : &name "MLBLR" # &name is a YAML anchor which can be *referenced later
+description              : &description "We are a group of Machine Learning and Data Science enthusiasts. We meet to discuss research papers and have featured talks by experts in industry and academia. The purpose is to build a community around students, researchers, corporations in Machine Learning and Data Science. ."
+url                      : https://machinelearningblr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "machinelearningblr/machinelearningblr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -49,23 +49,23 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-  secret                 : "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+  siteKey                : "6LfEtjoUAAAAAK6OAjIU-n6Su6kcBEVBZoTXTfCr"
+  secret                 : "6LfEtjoUAAAAAM0AeAbxbDZuHRnC8NrahiUw_4T1"
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "ML_Blr"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook ""
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -75,8 +75,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "https://twitter.com/ML_Blr"
+    - "https://facebook.com/"
 
 # Analytics
 analytics:
@@ -89,21 +89,21 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  bio              : "Machine Learning Bangalore Chapter."
+  location         : "Bangalore, IN"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://machinelearningblr.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "machinelearningblr"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : "machinelearningblr"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # https://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : "ML_Blr"
   vine             :
   weibo            :
   xing             :
