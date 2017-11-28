@@ -25,13 +25,11 @@ feature_row:
     btn_label: "Learn More"
   - image_path: assets/images/blog.jpg
     alt: "Blog"
-    title: "Blog: Latest in the field of Machine Learning and AI"
-    excerpt: "Latest!"
+    title: "Blog"
+    excerpt: "Group updates & Latest in the field of Machine Learning and AI"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Join us to learn and contribute! &nbsp;'
 ---
