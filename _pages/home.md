@@ -4,6 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_filter: 0.5
   cta_label: "<i class='fa fa-meetup'></i> Join Us"
   cta_url: "https://www.meetup.com/Machine-Learning-India-Bangalore/"
   caption:
