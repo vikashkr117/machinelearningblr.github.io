@@ -9,21 +9,21 @@ header:
   caption:
 excerpt: 'We are a group of Machine Learning and Data Science enthusiasts. We meet to discuss research papers and have featured talks by experts in industry and academia. The purpose is to build a community around students, researchers, corporations in Machine Learning and Data Science..<br /> <small><a href="https://www.meetup.com/Machine-Learning-India-Bangalore/">Machine Learning Bangalore MeetUp</a></small><br /><br />'
 feature_row:
-  - image_path: /assets/images/projects.jpg
+  - image_path: assets/images/projects.jpg
     alt: "projects"
     title: "Projects"
     excerpt: "Open Source projects developed and maintained by Machine Learning Bangalore Chapter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/tutorials.png
+  - image_path: assets/images/tutorials.png
     alt: "tutorials"
     title: "Tutorials"
     excerpt: "From Ground Zero to Alpha Centauri!"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/blog.jpg
+  - image_path: assets/images/blog.jpg
     alt: "Blog"
     title: "Blog: Latest in ML & more"
     excerpt: "Latest!"
