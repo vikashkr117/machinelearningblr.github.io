@@ -24,9 +24,9 @@ main:
     url: /docs/quick-start-guide/
   - title: "Projects"
     url: /about/
-  - title: "Tutorials"
-    url: /year-archive/
   - title: "Blog"
+    url: /year-archive/
+  - title: "Tutorials"
     url: /collection-archive/
   - title: "Latest Papers"
     url: /terms/
