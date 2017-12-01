@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Join us to learn and contribute! &nbsp;'
+  - excerpt: 'Join us to learn and contribute! <br> This site is in heavy development, apologies for broken links or missing content in advance! &nbsp;'
 ---
 
 {% include feature_row id="intro" type="center" %}
