@@ -24,7 +24,7 @@ I also read a very interesting paper last year, Harmonic Networks which took a v
 ## Simplification
 If we were to grossly simplify DNNs we can say that "in DNNs we take a small image filter (a Kernel learned) and look at a target image through this filter. Whenever the feature or part of the image matches this filter, we confirm our match and raise some of the vectors in our embeddings to help the classifier!" Refer this image: 
 
-![transparent black overlay](https://secure.meetupstatic.com/photos/event/d/e/0/5/event_466136837.jpeg){: .align-center}
+![transparent black overlay](https://adeshpande3.github.io/assets/deconvnet.png){: .align-center}
 
 
 ## Experiments
@@ -49,7 +49,6 @@ Training a whole new network and then running the network to create kernel visua
 
 Finally taking inspiration from "Convolutions are actually performing Correlations", we re-used this Template Matching code written in Python-OpenCV.
 
-![transparent red overlay]({{ "/assets/images/mm-header-overlay-red-filter.jpg" | absolute_url }})
 
 ```yaml
 import cv2
@@ -85,6 +84,7 @@ for meth in methods:
     plt.suptitle(meth)
     plt.show()
 ```
+
 ## Results
 Here is the first result of using a **normal feature vector** we took from Distill: 
 
@@ -115,4 +115,5 @@ We would have spent cool 3-4 hours trying out different kernels, shapes and imag
 Let us know what you think!
 
 Rohan Shravan
+
 _Not an English Professor_
