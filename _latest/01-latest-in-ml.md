@@ -1,5 +1,5 @@
 ---
-title: "Latest in Machine Learning & AI"
+title: "Latest in ML"
 permalink: /latest/latest-in-ml/
 excerpt: "Learn about the best papers in the field of Machine Learning and Artificial Intelligene."
 last_modified_at: 2017-11-15T09:49:52-05:00

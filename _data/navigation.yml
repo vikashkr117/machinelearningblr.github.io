@@ -95,7 +95,7 @@ docs:
 latest:
   - title: Latest in ML & AI
     children:
-      - title: "Selection"
+      - title: "Latest in ML"
         url: /latest/latest-in-ml/
       - title: "Structure"
         url: /latest/structure/
