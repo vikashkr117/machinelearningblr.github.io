@@ -40,57 +40,32 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+  - title: Machine Learning
     children:
-      - title: "Configuration"
+      - title: "Coming Soon!"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "Template"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+  - title: Resources
     children:
-      - title: "Working with Posts"
+      - title: "Databases - Coming Soon"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "Trained Models - Coming Soon"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "Live Projects - Coming Soon"
         url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
+  - title: Help
     children:
-      - title: "Stylesheets"
+      - title: "Common Problems - Coming Soon"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Tensorflow Problems - Coming Soon"
         url: /docs/javascript/
-  - title: Meta
+  - title: Tests
     children:
-      - title: "History"
+      - title: "Coming Soon"
         url: /docs/history/
-      - title: "Contributing"
+      - title: "Coming Soon"
         url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
-
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"
