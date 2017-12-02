@@ -29,7 +29,7 @@ main:
   - title: "Tutorials"
     url: /collection-archive/
   - title: "Latest Papers"
-    url: /latest/
+    url: /latest/quick-start-guide/
   - title: "Search"
     url: /search/
 
@@ -88,6 +88,63 @@ docs:
         url: /docs/docs-2-2/
       - title: "License"
         url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
+
+# latest research paper links
+latest:
+  - title: Latest in ML & AI
+    children:
+      - title: "Selection"
+        url: /latest/latest-in-ml/
+      - title: "Structure"
+        url: /latest/structure/
+      - title: "Suggestion"
+        url: /latest/suggestions/
+      - title: "Contribute"
+        url: /latest/contribute/
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /latest/configuration/
+      - title: "Overriding Theme Defaults"
+        url: /latest/overriding-theme-defaults/
+      - title: "Navigation"
+        url: /latest/navigation/
+      - title: "UI Text"
+        url: /latest/ui-text/
+      - title: "Authors"
+        url: /latest/authors/
+      - title: "Layouts"
+        url: /latest/layouts/
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /latest/posts/
+      - title: "Working with Pages"
+        url: /latest/pages/
+      - title: "Working with Collections"
+        url: /latest/collections/
+      - title: "Helpers"
+        url: /latest/helpers/
+      - title: "Utility Classes"
+        url: /latest/utility-classes/
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /latest/stylesheets/
+      - title: "JavaScript"
+        url: /latest/javascript/
+  - title: Meta
+    children:
+      - title: "History"
+        url: /latest/history/
+      - title: "Contributing"
+        url: /latest/contributing/
+      - title: "Old 2.2 Docs"
+        url: /latest/docs-2-2/
+      - title: "License"
+        url: /latest/license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
 
