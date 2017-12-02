@@ -1,47 +1,43 @@
 ---
 title: "Quick-Start Guide"
 permalink: /docs/quick-start-guide/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+excerpt: "How to quickly get started!."
 last_modified_at: 2017-11-15T09:49:52-05:00
 redirect_from:
   - /theme-setup/
 toc: true
 ---
 
-Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with slightly different installation process.
+Let's get started!
 
-## Installing the Theme
+## Who is this guide for? 
+This guide is basics 101. We will focus on Python and numpy basics. This guide was generated from the Machine Learning MeetUp held on 2nd December 2017. 
 
-If you're running Jekyll v3.5+ and self-hosting you can quickly install the theme as a Ruby gem.
+## First steps
 
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | absolute_url }}) for a list of theme files and what they do.
+To make sure we don't run into any Python versioning or other installation issues, we will start with Anaconda-Docker image. 
 
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+1. Install Docker on your machine from [this](https://docs.docker.com/engine/installation/) link. 
+2. Install prebuilt docker image for Anaconda/Python from [this](https://hub.docker.com/r/continuumio/anaconda3/) link. 
+
+Now you're ready to follow the Basics 101 tutorial. 
+
+**WARNING:** In case you have your own installations for Python/Numpy, you may not find help in fixing installations or version related errors. StackOverFlow would be a good resource to get help in such cases.
 {: .notice--info}
 
-### Ruby Gem Method
+### Download Basics 101 files
 
-Add this line to your Jekyll site's `Gemfile`:
+Machine Learning Bangalore Chapter has it's own Github Repository `[MLBLR](https://github.com/machinelearningblr)`. We will be hosting our content, this site, projects and other resources here. This would be used as our project management tool as well. 
 
-```ruby
-gem "minimal-mistakes-jekyll"
+```
+We are constantly looking for contributors! If you are looking to contribute, just post a comment and we will involve you ASAP. 
 ```
 
-Add this line to your Jekyll site's `_config.yml` file:
+**Download Link**
+Download the zip folder hosted at: [Basics 101](https://github.com/machinelearningblr/machinelearningblr.github.io/blob/master/tutorials/CS231n-Materials.zip)
+### Shamelessly Stanford
 
-```yaml
-theme: minimal-mistakes-jekyll
-```
-
-Then run Bundler to install the theme gem and dependencies:
-
-```bash
-bundle install
-```
-
-### GitHub Pages Compatible Methods
-
-If you're hosting with GitHub Pages follow these steps instead.
+We are _shamelessly_ following the basics taught by [Andrej Karpathy](http://karpathy.github.io/) taught in Stanford in 2016. 
 
 **Note:** [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) is currently in beta on GitHub Pages. In my tests it works as advertised, with the occasional failure due to missing `_includes` and `_layouts` --- your results may vary.
 {: .notice--warning}
