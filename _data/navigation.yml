@@ -35,12 +35,10 @@ main:
 
 
 # documentation links
-      #- title: "Quick-Start Guide"
-      #  url: /docs/quick-start-guide/
-      #- title: "Structure"
 docs:
   - title: Getting Started
     children:
+      - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
