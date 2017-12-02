@@ -27,7 +27,7 @@ main:
   - title: "Blog"
     url: /year-archive/
   - title: "Latest Papers"
-    url: /latest-papers-temp/
+    url: /latest/latest-in-ml/
   - title: "Search"
     url: /search/
 
@@ -88,8 +88,10 @@ docs:
         url: /docs/license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
-
-# latest research paper links
+# documentation links
+      - title: "Latest in ML & AI"
+        url: /latest/latest-in-ml/
+      - title: "Latest in ML & AI"
 latest:
   - title: Latest in ML & AI
     children:

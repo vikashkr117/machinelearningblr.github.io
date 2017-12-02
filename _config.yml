@@ -224,7 +224,7 @@ defaults:
   # _latest
   - scope:
       path: ""
-      type: _latest
+      type: latest
     values:
       layout: single
       read_time: false
