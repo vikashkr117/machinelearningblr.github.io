@@ -20,14 +20,14 @@ foo:
 
 # main links
 main:
-  - title: "Tutorials"
-    url: /docs/quick-start-guide/
+  - title: "Quick-Start"
+    url: /collection-archive/
   - title: "Projects"
     url: /about/
   - title: "Blog"
     url: /year-archive/
   - title: "Latest Papers"
-    url: /latest/latest-in-ml/
+    url: /latest-papers-temp/
   - title: "Search"
     url: /search/
 
@@ -88,10 +88,8 @@ docs:
         url: /docs/license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
-# documentation links
-      - title: "Latest in ML & AI"
-        url: /latest/latest-in-ml/
-      - title: "Latest in ML & AI"
+
+# latest research paper links
 latest:
   - title: Latest in ML & AI
     children:
