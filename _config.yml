@@ -221,6 +221,18 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
+  # _latest
+  - scope:
+      path: ""
+      type: latest
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "latest"
   # _recipes
   - scope:
       path: ""
