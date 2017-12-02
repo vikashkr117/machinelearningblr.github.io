@@ -21,13 +21,13 @@ foo:
 # main links
 main:
   - title: "Quick-Start"
-    url: /docs/quick-start-guide/
+    url: /collection-archive/
   - title: "Projects"
     url: /about/
   - title: "Blog"
     url: /year-archive/
   - title: "Tutorials"
-    url: /collection-archive/
+    url: /docs/quick-start-guide/
   - title: "Latest Papers"
     url: /latest-papers-temp/
   - title: "Search"
@@ -35,12 +35,12 @@ main:
 
 
 # documentation links
-docs:
-  - title: Getting Started
-    children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
       - title: "Structure"
+docs:
+  - title: Getting Started
+    children:
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
