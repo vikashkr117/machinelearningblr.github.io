@@ -29,7 +29,7 @@ main:
   - title: "Tutorials"
     url: /collection-archive/
   - title: "Latest Papers"
-    url: /latest-papers-temp/
+    url: /latest/
   - title: "Search"
     url: /search/
 
