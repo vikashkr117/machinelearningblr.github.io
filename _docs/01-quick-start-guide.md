@@ -67,10 +67,14 @@ That's it!
 
 Stay tuned for the a lot of improvement on this site, next tutorials, video for the [2nd Dec Meetup](https://www.meetup.com/Machine-Learning-India-Bangalore/events/wzjvznywqbdb/)
 
+```
 To-Do list on our end:
-- [ ] Fix all the url's on this site
-- [ ] Post the video for the 2nd Dec Meetup
-- [ ] Update the Github with new orgalizers
-- [ ] Get the forum up for discussions
-- [ ] Set up Test-Driven-Tutorials to make sure, you know what!
-- [ ] Host a Beer-Meetup Soon!
+- Fix all the url's on this site
+- Post the video for the 2nd Dec Meetup
+- Update the Github with new orgalizers
+- Get the forum up for discussions
+- Set up Test-Driven-Tutorials to make sure, you know what!
+- Host a Beer-Meetup Soon!
+```
+
+
