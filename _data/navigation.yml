@@ -20,12 +20,12 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start"
-    url: /collection-archive/
   - title: "Projects"
     url: /about/
   - title: "Blog"
     url: /year-archive/
+  - title: "Tutorials"
+    url: /docs/quick-start-guide/
   - title: "Latest Papers"
     url: /latest-papers-temp/
   - title: "Search"
