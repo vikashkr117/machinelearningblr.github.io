@@ -27,9 +27,9 @@ main:
   - title: "Blog"
     url: /year-archive/
   - title: "Tutorials"
-    url: /collection-archive/
+    url: /docs/quick-start-guide/
   - title: "Latest Papers"
-    url: /terms/
+    url: /collection-archive/
   - title: "Search"
     url: /search/
 
