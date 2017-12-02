@@ -30,7 +30,9 @@ Now you're ready to follow the Basics 101 tutorial.
 Machine Learning Bangalore Chapter has it's own Github Repository [MLBLR](https://github.com/machinelearningblr). We will be hosting our content, this site, projects and other resources here. This would be used as our project management tool as well. 
 
 ```
-We are constantly looking for contributors! If you are looking to contribute, just post a comment and we will involve you ASAP. 
+We are constantly looking for contributors! 
+If you are looking to contribute, just post a comment 
+and we will involve you ASAP. 
 ```
 
 **Download Link**
@@ -39,7 +41,7 @@ Download the zip folder hosted at: [Basics 101](https://github.com/machinelearni
 
 We are _shamelessly_ following the basics taught by [Andrej Karpathy](http://karpathy.github.io/) taught in Stanford in 2016. 
 
-**Note:** If you are aleady well versed in Python then, you can directly follow **half** of the content hosted at[CS231n](cs231n.github.io). We will cover Computer Vision technologies like OpenCV, dLib, etc. Our Meetups would go through this content, so you get to ask, discuss and get your hands directly in real!
+**Note:** If you are aleady well versed in Python then, you can directly follow **half** of the content hosted at [CS231n](cs231n.github.io). We will cover Computer Vision technologies like OpenCV, dLib, etc. Our Meetups would go through this content, so you get to ask, discuss and get your hands directly in real!
 {: .notice--info}
 
 ## Start the Tutorial
@@ -61,4 +63,14 @@ Click the button below to start the Python-Numpy Basic tutorial.
 
 ---
 
-That's it!.
+That's it!
+
+Stay tuned for the a lot of improvement on this site, next tutorials, video for the [2nd Dec Meetup](https://www.meetup.com/Machine-Learning-India-Bangalore/events/wzjvznywqbdb/)
+
+To-Do list on our end:
+- [ ] Fix all the url's on this site
+- [ ] Post the video for the 2nd Dec Meetup
+- [ ] Update the Github with new orgalizers
+- [ ] Get the forum up for discussions
+- [ ] Set up Test-Driven-Tutorials to make sure, you know what!
+- [ ] Host a Beer-Meetup Soon!
