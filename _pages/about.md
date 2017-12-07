@@ -21,7 +21,7 @@ Soon we will start working on community projects. These projects would help us l
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `Projects`, `Tutorials`, and `Blog`." %}
 
 
-## Notable Features
+## What to expect here? 
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
