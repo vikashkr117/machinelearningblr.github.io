@@ -41,7 +41,7 @@ Download the zip folder hosted at: [Basics 101](https://github.com/machinelearni
 
 We are _shamelessly_ following the basics taught by [Andrej Karpathy](http://karpathy.github.io/) taught in Stanford in 2016. 
 
-**Note:** If you are aleady well versed in Python then, you can directly follow **half** of the content hosted at [CS231n](cs231n.github.io). We will cover Computer Vision technologies like OpenCV, dLib, etc. Our Meetups would go through this content, so you get to ask, discuss and get your hands directly in real!
+**Note:** If you are aleady well versed in Python then, you can directly follow **half** of the content hosted at [CS231n](https://cs231n.github.io). We will cover Computer Vision technologies like OpenCV, dLib, etc. Our Meetups would go through this content, so you get to ask, discuss and get your hands directly in real!
 {: .notice--info}
 
 ## Start the Tutorial
@@ -59,6 +59,11 @@ Click the button below to start the Python-Numpy Basic tutorial.
 {: .notice--info}
 
 <a href="https://github.com/machinelearningblr/machinelearningblr.github.io/blob/master/tutorials/CS231n-Materials/CS231n-python-numpy-tutorial.ipynb" class="btn btn--inverse btn--x-large">iPython</a>
+
+**Here is the video**
+<iframe markdown="0" width="640" height="360" src="https://www.youtube.com/embed/MEnNymMOQJE" frameborder="0" allowfullscreen></iframe>
+
+Read the [latest blog](https://machinelearningblr.github.io//tutorials%20video/first-meetup-tutorial/) to learn more about this video tutorial :
 
 
 ---
