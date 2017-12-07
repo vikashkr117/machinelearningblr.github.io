@@ -1,5 +1,5 @@
 ---
-title: "Post: First MLBLR MeetUp HandsOn Tutorial is Up!"
+title: "First MLBLR MeetUp HandsOn Tutorial is Up!"
 categories:
   - Tutorials Video
 tags:
