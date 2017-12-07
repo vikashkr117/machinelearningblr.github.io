@@ -8,7 +8,9 @@ tags:
 
 > Here's the video of the First MLBLR MeetUp HandsOn Tutorial.
 
-<iframe width="640" height="360" src="https://youtu.be/MEnNymMOQJE" frameborder="0" allowfullscreen></iframe>
+<div class="fluid-width-video-wrapper">
+<iframe markdown="0" width="640" height="360" src="https://youtu.be/MEnNymMOQJE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 There were few additional learnings from this simple uploading exercise.
 
