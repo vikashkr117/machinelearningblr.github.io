@@ -70,7 +70,7 @@ Read the [latest blog](https://machinelearningblr.github.io//tutorials%20video/f
 
 That's it!
 
-Stay tuned for the a lot of improvement on this site, next tutorials, video for the [2nd Dec Meetup](https://www.meetup.com/Machine-Learning-India-Bangalore/events/wzjvznywqbdb/)
+Stay tuned for the a lot of improvement on this site, next tutorials and content!
 
 ```
 To-Do list on our end:
