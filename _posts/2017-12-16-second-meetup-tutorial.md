@@ -33,9 +33,16 @@ Click the button below to start the tutorial part 2. Follow this link _while_ yo
 
 **The Video**
 
-> Video will be posted after the event, once it is ready. 
+<iframe markdown="0" width="640" height="360" src="https://www.youtube.com/embed/h-FSNga3s20" frameborder="0" allowfullscreen></iframe>
 
-<iframe markdown="0" width="640" height="360" src="" frameborder="0" allowfullscreen></iframe>
+## The Assignment
 
-Enjoy!
+You must finish the assignment posted here: http://cs231n.github.io/assignments2017/assignment1/
 
+## The Links
+These are the links which were referred in the video/tutorials:
+1. Intro to ML: https://medium.com/@datalorelabs/introduction-to-machine-learning-b858bb33f01f
+2. Linear Algebra: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+3. Neural Networks: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Auf Wiedersehen!
