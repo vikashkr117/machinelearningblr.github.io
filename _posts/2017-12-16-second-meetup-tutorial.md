@@ -6,7 +6,7 @@ tags:
   - Tutorials Video Notebook
 ---
 
-> This post contains contents for the 2nd Hands-On MLBLR MeetUp. Video will be posted once event finishes. 
+> This post contains contents for the 2nd Hands-On MLBLR MeetUp. 
 
 ## How to follow this video?
 
@@ -37,12 +37,12 @@ Click the button below to start the tutorial part 2. Follow this link _while_ yo
 
 ## The Assignment
 
-You must finish the assignment posted here: http://cs231n.github.io/assignments2017/assignment1/
+You must finish the assignment posted here: [ASSIGNMENT_LINK](http://cs231n.github.io/assignments2017/assignment1/)
 
 ## The Links
 These are the links which were referred in the video/tutorials:
-1. Intro to ML: https://medium.com/@datalorelabs/introduction-to-machine-learning-b858bb33f01f
-2. Linear Algebra: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-3. Neural Networks: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+1. [Intro to ML] (https://medium.com/@datalorelabs/introduction-to-machine-learning-b858bb33f01f)
+2. [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+3. [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
 
 Auf Wiedersehen!
